@@ -1,1 +1,45 @@
+# Project Title: City of Chicago employee salary analysis per year.
+
+
+
+# Team Members: Team 4 J.M.B Enterprises #JustMakingBillions
+
+- Joe Morici
+- Motolani Alimi
+- Bryan Schwierzke
+
+
+# Project Description/Outline
+
+
+
+Looking at seven year analysis of budget ordinances(Positions and Salaries) for the city of Chicago.
+ 
+# Research Questions to Answer
+
+
+Q1: Which departments have the highest pay increases over time?
+
+Q2: What are the top 20 highest paid job titles?
+
+Q3: Which departments have the highest budgets?
+
+Q4: How has the department sizes changed over time?
+
+
+# Data Sets to be Used
+
+The data sets are from this website "https://data.cityofchicago.org/" specifically using the Budget Ordinances- Positions and Salaries.
+
+#Rough Breakdown of Tasks
+
+- Pull data from API
+- Cleanup the Data
+- Combine the files into one Dataframe i.e. combine JSON(s)
+- Analyze data
+- Create plots
+- Draw Conclusions
+
+
+
 
