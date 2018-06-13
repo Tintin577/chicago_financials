@@ -1,4 +1,4 @@
-# Project Title: City of Chicago employee salary analysis per year.
+# Project Title: Impact of Chicago’s Finances on Employment
 
 
 
@@ -11,25 +11,24 @@
 
 # Project Description/Outline
 
+Looking at seven year analysis of budget ordinances(Positions and Salaries) and financial information for the city of Chicago.
 
-
-Looking at seven year analysis of budget ordinances(Positions and Salaries) for the city of Chicago.
+Does the city’s exploding liabilities have an effect on their operating budget, specifically city employees?
  
 # Research Questions to Answer
 
 
-Q1: Which departments have the highest pay increases over time?
+Q1: How bad is the City’s financial situation?
 
-Q2: What are the top 20 highest paid job titles?
+Q2: Does the City’s financial situation impact the employment, salaries and budget?
 
-Q3: Which departments have the highest budgets?
-
-Q4: How has the department sizes changed over time?
-
+Q3: How can the city of Chicago reduce financial burden?
 
 # Data Sets to be Used
 
 The data sets are from this website "https://data.cityofchicago.org/" specifically using the Budget Ordinances- Positions and Salaries.
+
+Plus, CAFR - Comprehensive Annual Financial Reports for the City of Chicago 
 
 #Rough Breakdown of Tasks
 
