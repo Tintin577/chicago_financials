@@ -1,7 +1,7 @@
 # Chicago's Finances Over Time
 
 ## Synopsis
-+ Tell a visual story of Chicago's deepening debt burdern and how it might be impacting city employment
++ Tell a visual story of Chicago's deepening debt burden and how it might be impacting city employment
 ## Sample Visuals
 ![overal fincances](images/overall.png)
 ![budgets](images/budget1.png)
