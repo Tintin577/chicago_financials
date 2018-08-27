@@ -1,0 +1,44 @@
+# Project Title: Impact of Chicago’s Finances on Employment
+
+
+
+# Team Members: Team 4 J.M.B Enterprises #JustMakingBillions
+
+- Joe Morici
+- Motolani Alimi
+- Bryan Schwierzke
+
+
+# Project Description/Outline
+
+Looking at seven year analysis of budget ordinances(Positions and Salaries) and financial information for the city of Chicago.
+
+Does the city’s exploding liabilities have an effect on their operating budget, specifically city employees?
+ 
+# Research Questions to Answer
+
+
+Q1: How bad is the City’s financial situation?
+
+Q2: Does the City’s financial situation impact the employment, salaries and budget?
+
+Q3: How can the city of Chicago reduce financial burden?
+
+# Data Sets to be Used
+
+The data sets are from this website "https://data.cityofchicago.org/" specifically using the Budget Ordinances- Positions and Salaries.
+
+Plus, CAFR - Comprehensive Annual Financial Reports for the City of Chicago 
+
+#Rough Breakdown of Tasks
+
+- Pull data from API
+- Cleanup the Data
+- Combine the files into one Dataframe i.e. combine JSON(s)
+- Analyze data
+- Create plots
+- Draw Conclusions
+
+
+
+
