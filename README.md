@@ -25,5 +25,5 @@
 ## License
 + None
 ## Acknowledgments
-+ Northwester Data Science Boot Camp
++ Northwestern Data Science Boot Camp
 + [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
